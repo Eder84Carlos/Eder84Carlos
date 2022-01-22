@@ -20,9 +20,6 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
- 
-
-##Estudante de análise e desenvolvimento de sistemas, apaixonado por tecnologia.
 
 ##Hora do lazer!
 
@@ -30,6 +27,8 @@
   <img align="center" alt="XBOX" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
    <img align="center" alt="DEEZER" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </div><br/>
+
+##Frase que mais me motiva "Somos aquilo que queromos ser!"
 
 
 
