@@ -2,7 +2,6 @@
 ### Olá! Eu sou Eder Carlos 💻🖱️🤖
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-carlos-1b913820b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqL0awLKARLyk8ypeAVohgQ%3D%3D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![Eder84Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Eder84Carlos&show_icons=true&theme=dracula)
 
