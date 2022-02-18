@@ -28,7 +28,7 @@
    <img align="center" alt="DEEZER" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </div><br/>
 
-##Frase que mais me motiva "Somos aquilo que queromos ser!"
+##Frase que mais me motiva "Somos aquilo que queromos ser!"##
 
 
 
