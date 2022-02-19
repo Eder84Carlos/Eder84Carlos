@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/91353220/154822061-e8b6aab4-c885-4bfc-a24d-4bd0ec7e4c60.jpg" width="500px" />
 </div>
 
-##Frase que mais me motiva "Somos aquilo que queromos ser!"#
+##Frase que mais me motiva "Somos aquilo que queremos ser!"#
 
 
 
